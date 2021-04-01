@@ -1,0 +1,14 @@
+.common-btn {
+    padding: 18px 40px;
+    background: transparent;
+    outline: none;
+    border: 2px solid #7FDBFF;
+    cursor: pointer;
+}
+
+.common-btn:hover {
+    border-color: #01FF70;
+    color: #7FDBFF;
+    box-shadow: 0 0.5em 0.5em -0.4em #111111;
+    transform: translateY(-0.25em);
+}
